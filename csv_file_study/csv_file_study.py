@@ -1,5 +1,6 @@
 import csv
 
+#文件路径（文件要手动创建）
 filePath = 'C:/Users/likes/Desktop/test.csv'
 
 
